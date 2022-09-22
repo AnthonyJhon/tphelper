@@ -1,17 +1,19 @@
 {
-    "name": "anthonyjhon/tphelper",
-    "description": "thinkphp6 helper",
-    "autoload": {
-        "psr-4": {
-            "Anthony\\Tphelper\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "AnthonyJhon",
-            "email": "anthonyjhon@qq.com"
-        }
-    ],
-    "minimum-stability": "beta",
-    "require": {}
+  "name": "anthonyjhon/tphelper",
+  "description": "thinkphp6 helper",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AnthonyJhon",
+      "email": "anthonyjhon@qq.com"
+    }
+  ],
+  "minimum-stability": "beta",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Anthony\\Tphelper\\": "src/"
+    }
+  }
 }
