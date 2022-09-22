@@ -1,5 +1,5 @@
 {
-    "name": "anthony/tphelper",
+    "name": "anthonyjhon/tphelper",
     "description": "thinkphp6 helper",
     "autoload": {
         "psr-4": {
